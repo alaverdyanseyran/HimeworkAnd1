@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntRes</string>
+    <string name="GoButton">go</string>
+</resources>
